@@ -1,0 +1,5 @@
+# Tambahkan ke file .env
+EVIDEN_GOOGLE_CREDENTIALS=storage/app/google/service-account.json
+EVIDEN_FOLDER_SEM1=1JFt8iwTGO_0oiDWLotkNt80PN_8T55Al
+EVIDEN_FOLDER_SEM2=1j8c0VR86xLh9497XlDk-86wvNMUcF-aT
+EVIDEN_CACHE_TTL=600
